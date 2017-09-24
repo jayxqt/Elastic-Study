@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="searchdemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ElasticSearch-Study.war">
+      <element id="artifact" artifact-name="searchdemo:war exploded" />
+    </root>
+  </artifact>
+</component>
